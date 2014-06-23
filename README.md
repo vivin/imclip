@@ -33,3 +33,13 @@ Copies the image inside `puppies.jpg` into the clipboard.
     imclip --in=robots.png
 
 Copies the image inside `robots.png` into the clipboard.
+
+Build Instructions
+------------------
+
+Just run `build.sh`. You will need GTK 2.0 development libraries. 
+
+Disclaimer
+----------
+
+I'm effectively a C noob. This is the first C program I've written in a long time. So it's probably not very clean or well written. Comments and cleanup welcome.
